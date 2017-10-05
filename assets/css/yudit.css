@@ -1,0 +1,146 @@
+/* html, body {
+  margin: 0;
+  font-family: arial,sans-serif;
+  min-width: 100%;
+  line-height: 14px;
+  font-size: 10px;
+  background-position: center;
+} */
+
+#banner {
+  background: #F6F6F9 url('../img/banner_top.jpg') no-repeat;
+  height: 20vh;
+  min-width:100%;
+  background-position: center top ;
+  display: block;
+  background-size: 90%;
+
+}
+#contenedor-gris{
+  background: #F6F6F9;
+}
+#text{
+color: #8C8585;
+font-size: 12px;
+padding-left:10px;
+}
+#boletin{
+  background: #E93B3B;
+  color: white;
+  margin-left: 10%;
+  font-size: 11px;
+  padding:5px 10px;
+  border-radius: 4px;
+}
+#icono-facebook{
+  color: blue;
+}
+#icono-twitter{
+  color: #5EDDF0;
+}
+#icono-google{
+  color: red ;
+}
+#icono-message{
+  color: #F9CB18;
+}
+#icono-wifi{
+  color: #F86F0A;
+}
+.fa{
+  margin-left: 2%;
+}
+.buscar{
+  width: 24%;
+  height: 10%;
+}
+#icono-buscar{
+  font-size:14px;
+  text-decoration: none;
+
+}
+#borde-domingo{
+   border-style: solid;
+   border-color: #CBC6C6 ;
+   border-bottom: none;
+   margin-top: 30px;
+  
+}
+#line-red{
+  padding: 3px 10px;
+  background:#BA1F1F;
+}
+
+#borde-domingo h5{
+  font-size: 11px;
+  text-align: center;
+}
+#centrol{
+   width: 40%;
+  color: white;
+  padding: 5px 10px;
+  background: #BA1F1F;
+  font-size: 11px;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 10px;
+  position: absolute;
+  transform: translateY(-50%)translateX(50%);
+}
+.cursive{
+  font-family: cursive;
+}
+#borde-author{
+   border-style: solid;
+   border-color: #CBC6C6 ;
+   border-right: none;
+}
+#borde-author #parraf{
+  float: right;
+  font-size: 13px;
+  text-align: center;
+}
+.img-author{
+  margin-left: -20px;
+  margin-top: 18px;
+}
+#nav-republica{
+color: #fff;
+background:#D40505;
+padding: 9px 10px;
+font-size: 12px;
+padding-left:10px;
+font-size:12.8px;
+display: fixed;
+margin-top: 30px;
+}
+#nav-republica:hover{
+  background: #0B058C;
+}
+#navegador{
+  width: 100%;
+  height: 52px;
+  background: #D40505;
+  border-radius: 5px;
+}
+#title-tema{
+  background:black;
+  color:#fff;
+  border-radius: 6px;
+  padding: 10px 10px;
+}
+#tema{
+  background: #A09898;
+  color: black;
+  padding: 10px 10px;
+}
+#banner2 {
+  background:url('../img/banner-header.jpg') no-repeat;
+  height: 20vh;
+  min-width:100%;
+  margin-top: -1%;
+  background-position:center;
+  display: block;
+  background-size: 90%;
+
+}

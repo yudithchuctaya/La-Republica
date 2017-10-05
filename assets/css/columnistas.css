@@ -1,0 +1,97 @@
+/* Inserta tu código de la página columnistas acá */
+/**{
+ outline: 1px solid pink;
+}*/
+.augusto{
+	background:gray;
+}
+/*parte de sonia*/
+.icon-red{
+	color: red;
+}
+.caja-imagen{
+
+	background-color: #aebfcf;
+	margin: 0px 5px 5px 5px;
+	height: 100px;
+}
+.img-responsive{
+	/*padding: 10px 0px 20px 20px; */
+	/*margin: 20px 0px 0px 10px;*/
+	border: 2px solid white;
+}
+.caja-padre{
+	border: 2px solid #aebfcf;
+	/*width:100px;*/
+	/*margin:0px 0px 0px 100px;*/
+}
+.texto-enfasis{
+	/*font-size: 30px;*/
+	color: black;
+}
+.textito{
+	padding-top: 20px;
+	font-size: 11px;
+}
+.img-text{
+
+	margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.div-img{
+	
+	justify-content: center;
+	width: 30%; 
+}
+.div-img{
+    /*margin-top: 20px;*/
+}
+.button{
+	color: white;
+	display: flex;
+	align-items: center;
+	background-color: #E01F0F;/*rojo*/
+	font-size: 20px;
+	border-radius: 5px;
+	border-style: none;
+}
+.listita{
+	display: inline-block;
+	color:white;
+}
+.rojo-span{
+	background: #E01F0F;
+}
+.nav-lista{
+	background-color: red;
+}
+
+.div-columnista-ultimo{
+	background-color: #aebfcf;
+}
+#caja-columnistas{
+
+}
+.caja-uno{
+	background-color: #aebfcf;
+}
+/*#caja-columnistas{
+	border:1px solid black;
+}*/
+.caja-uno{
+	/*border:1px solid black;*/
+}
+.color-nav{
+	background-color: red;
+}
+.botoncito{
+	margin-top: 10px;
+	background-color: red;
+}
+.color-texto-li{
+	background: white;
+	font-size: 30px;
+}
+/*fin de parte 
+sonia*/

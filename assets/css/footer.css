@@ -1,0 +1,62 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+#separador::after{
+    content: "|";
+}
+hr{
+    border-width:3px;
+}
+.derechos{
+  font-size: 1.5vw;
+}
+footer{
+    background:#CAC8C8;
+    color:#131a22;
+}
+footer a {
+  color: #3F3D3D;
+  font-size: 1vw;
+}
+
+
+footer .top a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer .top:hover {
+  background: #485769;
+}
+#botonbertha{
+    background:#121a22;
+    border: 3px solid #131a22;
+    color: green;
+    margin: 5px;
+    padding: 2px;
+    font-weight: bold;
+}
+/*------------------2-----------*/
+footer .center {
+  margin: 0 auto;
+  /* max-width: 1080px; */
+  width: 100%;
+  float: right;
+}
+
+footer ul {
+  margin: 20px 30px 20px 0;
+  display: inline-block;
+  vertical-align: top;
+  list-style: none;
+}
+
+footer .middle {
+  background: #232f3e;
+}
+
+
+footer .middle li {
+  position: relative;
+}
