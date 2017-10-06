@@ -238,14 +238,14 @@ padding-left:10px;
 .text-editorial{
   background: black;
   color: #fff;
-   width: 70%;
+   width: 73%;
   padding: 5px 10px;
   font-size: 10px;
 text-align: center;
 }
 #text-vertical {
  margin-left: 4%;
- margin-top: 20px;
+ margin-top: 23px;
 position: absolute;
 transform: scale(1)  rotate(-90deg);
 }
